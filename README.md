@@ -1,9 +1,5 @@
 # Restaurant-List
 <img width="1440" alt="截圖 2023-02-11 下午8 07 05" src="https://github.com/HeidiChung/Restaurant-list/blob/main/%E6%88%AA%E5%9C%96%202023-03-01%20%E4%B8%8A%E5%8D%8811.32.11.png">
-<<<<<<< HEAD
->
-=======
->>>>>>> 6f5fb43 (Revert "Delete 截圖 2023-03-01 上午11.32.11.png (+3 squashed commits)")
 
 # Introduction
 紀錄個人喜愛餐廳清單，可以瀏覽餐廳、查看詳細資訊、甚至連結到地圖。
